@@ -17,3 +17,6 @@ The API provides three main endpoints to fulfill the specified requirements:
 To ensure security, the project implements a custom authentication mechanism rather than relying on Django's built-in mechanisms. This ensures that only authorized users can access the APIs and perform the necessary operations.
 
 The GitHub repository for the Django Hotel Management System API provides a detailed README file, explaining the project setup, API documentation, and guidelines for customization. The repository demonstrates the effective use of Django, SQL queries, and secure API development, making it a valuable resource for building similar hotel management systems.
+
+
+
